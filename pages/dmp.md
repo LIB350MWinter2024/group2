@@ -39,11 +39,11 @@ objects. She oversees the spreadsheets we use to catalog and make sure everyone'
 
 **Data Types**: There are 26 items in this digital collection. 12 text documents (.pdf), 13 images (.jpeg), and 1 youtube video linked. The total size of the collection’s data is 100.4 MB as of March 2024  
 
-| Work Type    | File Format | Total Assets | Average File Size | Total Size of All Files |
-|--------------|-------------|--------------|-------------------|-------------------------|
-| Image        | .jpeg       | 13           | 0.25 MB           | 3.3 MB                  |
-| Document     | .pdf        | 12           | 8.09 MB           | 97.1 MB                 |
-| Youtube Vid  | N/A         | 1            | N/A               | N/A                     | 
+| WORK TYPE   | FILE FORMAT | TOTAL ASSETS | AVERAGE FILE SIZE | TOTAL SIZE OF ALL FILES |
+|-------------|-------------|--------------|-------------------|-------------------------|
+| Image       | .jpeg       | 13           | 0.25 MB           | 3.3 MB                  |
+| Document    | .pdf        | 12           | 8.09 MB           | 97.1 MB                 |
+| Youtube Vid | N/A         | 1            | N/A               | N/A                     |
 
 **Data Handling**
 
