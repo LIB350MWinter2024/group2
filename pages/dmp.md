@@ -16,15 +16,15 @@ credits: true
 
 *Team Members: Riley Bair, Michell Martinez, Kaitlin McKay, Amanda Hellenkamp* 
 
-##Track Town Eugene, OR 
+**Track Town Eugene, OR**
 
 Our digital collection thematic research topic is focused on Eugene, Oregon’s transformation into Track Town USA. We told this story through data spanning over 100 years, detailing the come up of Hayward field and the characters that cultivated the culture that ultimately became Track Town. You’ll see a lot of Steve Prefontaine, Bill Bowerman, Bill Hayward, and more faces that shaped what we get to call Track Town today. By collecting these objects we hope to provide a collection accessible to those just as curious as we were to engage with the past and how it brought us to the campus we live on today.  
 
-##Data Curation Methodology
+**Data Curation Methodology**
 
 Our data collection primarily stemmed from GLAMS, including the Oregon digital repository, Oregon News, and other University of Oregon-sponsored sources, aligning with our focus on the University's track and field history in Eugene from 1920-2021. In pursuit of collecting 20-30 objects we each secured a minimum of 5 objects to catalog into our collection. To catalog we used two forms of online spreadsheets. We dealt with our own cataloging of metadata on Excel until we diversified our platforms from strictly Microsoft 365 to include Google Drive. When that happened we settled into our group roles and responsibilities to help keep track of moving parts. From there we updated our catalog across both platforms to match our MAP and data consistency standards. Doing our curation this way yielded multiple copies to keep data safe, a well organized collection of data with consistent naming and metadata. Having foundational data stored, we transferred the metadata through CSV into our GitHub repository as well as the PDF’s and JPEG’s of our objects themselves to display in Collection Builder. 
 
-##Roles & Responsibilities: 
+**Roles & Responsibilities**: 
 
 **Michell Martinez**, *Project Manager*: Primarily responsible for keeping things organized and on track. She oversaw the project as a whole. This person is going to be the lead communicator with oversight outside of the team and checking in with individual members making sure the team is working cohesively. Michell has been the one to schedule meetings, speak with instructors outside of class, get clarifying information, and help out in multiple areas of the project. If Michell were to leave this project her duties would be delegated amongst the rest of the members in the group until another person was brought on. The CDM would take on the responsibilities of communication and meeting organization. The OPM and MM would split the management responsibilities of project tasks and due dates.  
 
@@ -35,7 +35,7 @@ Our data collection primarily stemmed from GLAMS, including the Oregon digital r
 **Amanda Hellenkamp**, *Metadata Manager*: Amanda’s role is responsible for heading the implementation of the MAP while cataloging our  
 objects. She oversees the spreadsheets we use to catalog and make sure everyone's data is following the standards laid out in our MAP. This role involves organization and high attention to detail. If Amanda were to leave the project her role would be split across every role until her position was filled. It would end up falling mostly on the Project and Repository Manager to do the end bits of detail checking while uploading the data into our repository.  
 
-##Expected Data
+**Expected Data**
 
 **Data Types**: There are 26 items in this digital collection. 12 text documents (.pdf), 13 images (.jpeg), and 1 youtube video linked. The total size of the collection’s data is 100.4 MB as of March 2024  
 
@@ -45,7 +45,7 @@ objects. She oversees the spreadsheets we use to catalog and make sure everyone'
 | Document     | .pdf        | 12           | 8.09 MB           | 97.1 MB                 |
 | Youtube Vid  | N/A         | 1            | N/A               | N/A                     | 
 
-##Data Handling 
+**Data Handling**
 
 The digital objects have been collected by Riley Bair, Michell Martinez, Kaitlin McKay, and Amanda Hellenkamp from multiple publicly accessible online repositories. The objects collected have copyright and licensing that allows for educational use and redistribution. The items have been cataloged according to a file naming convention which will be explained below in text and an accessible document at the bottom of this page. All the data employed in our collection is available through our group Sharepoint and Google Drive which contains both the raw and converted files as well as our metadata spreadsheet. The objects have been cited and can be traced back to their original repositories if viewers wish to engage with material further and delve into other collections and repositories.   
 
@@ -57,8 +57,7 @@ The digital objects have been collected by Riley Bair, Michell Martinez, Kaitlin
 *Bill Bowerman*= BBOW, *Prefontaine*= PFON, *Hayward Field*= HWYF, *Emerald*= DEMD
 *Bill hayward*= BHAY, *Phil Knight*= PKNI, *Olympic Track Meet* = OTRK,  
 **Number**: Three-digit number starting with 001 for every image. If more than one image with a similar filename exists, apply a numerically ordered sequence   
-**File Naming Convention in Practice**:  
-histotrktwn_1947_demd_015.pdf  
+**File Naming Convention in Practice**: histotrktwn_1947_demd_015.pdf  
 
 **Legal & Ethical Restrictions**: We do not see any legal or ethical reasons impacting the accessibility of our repository. All the items chosen have been granted access for educational use and redistribution following the proper citation. Nearly all of the objects being employed within our collection currently have been accessed through other various public repositories and collections. There is no data that is at risk of being privatized in this collection.  
 
